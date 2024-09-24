@@ -60,3 +60,10 @@ body {
     cursor: pointer;
     display:none;
 }
+
+
+@media (max-width:360px){
+    #next{
+        width: 135px;
+    }
+}
